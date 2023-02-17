@@ -1,4 +1,4 @@
-## Graph
+## Co2 Emissions
 
 ### Installing
 
@@ -10,7 +10,7 @@ poetry install
 
 ```bash
 poetry shell
-python3 stat.py
+python3 main.py
 
 # when done
 exit
